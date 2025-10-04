@@ -1,0 +1,17 @@
+.showBtn {
+  height: 20px;
+  width: 100px;
+}
+
+li {
+  list-style: none;
+}
+
+.valid {
+  font-weight: bold;
+  color: green;
+}
+
+.invalid {
+  color: red;
+}
